@@ -1,6 +1,6 @@
-### Hi, I'm Andres
+<img src="assets/banner.png" alt="Andres Rodriguez, product marketing, Montreal" width="100%">
 
-I'm a product marketer in Montreal. I work in French, English or Spanish, depending on who's on the other end.
+Hi, I'm Andres. I'm a product marketer in Montreal. I work in French, English or Spanish, depending on who's on the other end.
 
 A lot of what's on this profile started as a workaround. I didn't want to wait on an agency for a launch video, so I made one with Claude Code and an ElevenLabs voiceover. I needed a portfolio, so I built [andresrdz.vercel.app](https://andresrdz.vercel.app/) in React and put it on Vercel. The two repos below came from the same habit.
 
