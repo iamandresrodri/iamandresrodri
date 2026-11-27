@@ -1,20 +1,18 @@
-### Hi, I'm Andres 👋
+### Hi, I'm Andres
 
-Product marketer in Montreal. I work in English, French and Spanish.
+I'm a product marketer in Montreal. I work in French, English or Spanish, depending on who's on the other end.
 
-I build my own marketing tools with AI instead of waiting on agencies or dev time. My portfolio site, a product launch video, and the Claude skills below were all made that way.
+A lot of what's on this profile started as a workaround. I didn't want to wait on an agency for a launch video, so I made one with Claude Code and an ElevenLabs voiceover. I needed a portfolio, so I built [andresrdz.vercel.app](https://andresrdz.vercel.app/) in React and put it on Vercel. The two repos below came from the same habit.
 
-**Background**
-- Product marketing for deep tech: HPC and AI infrastructure, wireless chips, B2B SaaS
-- At SPARK Microsystems I helped get the product adopted by gaming brands
-- Most recently: GTM for a stealth HPC/AI infrastructure startup (positioning, launch plan, sales enablement, exec decks)
+**What I've worked on**
+- Deep tech, mostly: HPC and AI infrastructure, wireless chips, some B2B SaaS
+- At SPARK Microsystems, I helped get our wireless chip adopted by gaming brands
+- Lately, go-to-market for an HPC/AI infrastructure startup that's still in stealth, so that's all I can say about it
 
-**What's here**
-- [`pmm-launch-kit`](https://github.com/iamandresrodri/pmm-launch-kit): a Claude skill that turns product notes into a launch doc set (positioning, messaging, launch brief, battlecard, FAQ)
-- [`quebec-french-copy`](https://github.com/iamandresrodri/quebec-french-copy): a Claude skill for marketing copy in Quebec French that reads like a local wrote it, not a translation from France
+**Repos**
+- [pmm-launch-kit](https://github.com/iamandresrodri/pmm-launch-kit): you give Claude your product notes, it writes the positioning first and checks it with you, then builds the messaging, launch brief, battlecard and FAQ from that. The point is that all five docs end up saying the same thing.
+- [quebec-french-copy](https://github.com/iamandresrodri/quebec-french-copy): marketing copy in Quebec French. Courriel, not e-mail. Tu or vous, picked once and kept. AI tends to hand Quebec readers Paris French, and people here notice.
 
-**Elsewhere**
-- Portfolio: [andresrdz.vercel.app](https://andresrdz.vercel.app/)
-- LinkedIn: [add your link]
+Both are free. If one gets something wrong, open an issue. I'd like to know.
 
-Currently building: more skills for product marketers who'd rather ship than wait.
+[LinkedIn](https://www.linkedin.com/in/andresrodrigz/) · [Portfolio](https://andresrdz.vercel.app/)
